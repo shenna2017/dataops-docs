@@ -13,7 +13,7 @@
    * **Duration:** _30m_
    * **Description:** _Deploy relational databases using Amazon RDS and Redshift._
 5. [Extracts-as-Code - Populate the data Lake with an open source pipeline](./extracts-as-code.md)
-   * **Duration:** _45m_
+   * **Duration:** _40m_
    * **Description:** _Learn to manage secrets while building a fully automated data
      pipeline using 100% open source tools._
 6. [Use CI/CD and DBT to Deploy a Transformation Pipeline](./dbt-transforms.md)
